@@ -3,13 +3,13 @@
     color: white; background-color: black;
     display: flex; justify-content: center;
 }
-body {
-    width: 50%;
-}
+body { width: 50%; }
 
-h1 {
-    text-align: center;
-}
-a {
-    color: cornflowerblue;
+h1 { text-align: center; }
+a { color: cornflowerblue; }
+
+ul > li > div {
+    border: 1px solid rgba(255,255,255,0.25);
+    border-radius: 1rem;
+    padding: 0rem 1rem 1rem 1rem;
 }
